@@ -2,18 +2,19 @@
 
 Sou um estudante do terceiro ano do ensino médio, apaixonado por programação e tecnologia. Atualmente, estou focado em aprender e aplicar conhecimentos em Python e JavaScript, com o objetivo de transformar essa paixão em carreira. Estou em busca de oportunidades para crescer, aprender e contribuir no mundo da tecnologia, dando os primeiros passos como estagiário na área de TI.
 
-##
+## 🔗 Conecte-se comigo!
  
 <div> 
   <a href="https://instagram.com/arthurr.fleck" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:arthurricardofleck@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthurrfleck" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.dio.me/users/arthurricardofleck" target="_blank"><img src="https://img.shields.io/badge/-DIO-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
 
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -59,7 +60,7 @@ Sou um estudante do terceiro ano do ensino médio, apaixonado por programação 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img 
