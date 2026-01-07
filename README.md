@@ -1,6 +1,6 @@
 # 🖥️ Arthur Fleck!
 
-Sou um estudante do terceiro ano do ensino médio, apaixonado por programação e tecnologia. Atualmente, estou focado em aprender e aplicar conhecimentos em Python e JavaScript, com o objetivo de transformar essa paixão em carreira. Estou em busca de oportunidades para crescer, aprender e contribuir no mundo da tecnologia, dando os primeiros passos como estagiário na área de TI.
+Atualmente, estou focado em aprender e aplicar conhecimentos em Python e JavaScript, com o objetivo de transformar essa paixão em carreira. Estou em busca de oportunidades para crescer, aprender e contribuir no mundo da tecnologia, dando os primeiros passos como estagiário na área de TI.
 
 ## 🔗 Conecte-se comigo!
  
